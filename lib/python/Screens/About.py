@@ -218,7 +218,7 @@ class CommitInfo(Screen):
 			("https://api.github.com/repos/openpli/enigma2-plugins/commits", "Enigma2 Plugins"),
 			("https://api.github.com/repos/openpli/aio-grab/commits", "Aio Grab"),
 			("https://api.github.com/repos/openpli/enigma2-plugin-extensions-epgimport/commits", "Plugin EPGImport"),
-			("https://api.github.com/repos/littlesat/skin-PLiHD/commits", "Skin PLi HD"),
+			("https://api.github.com/repos/littlesat/skins-cobraliberosat-FHD.mod/commits", "skins-cobraliberosat-FHD.mod"),
 			("https://api.github.com/repos/E2OpenPlugins/e2openplugin-OpenWebif/commits", "OpenWebif"),
 			("https://api.github.com/repos/technl/HansSettings/commits", "Hans settings")
 		]
